@@ -1,1 +1,9 @@
 site_name: My Docs
+
+theme:
+  name: material   # ou mkdocs (par défaut)
+
+nav:
+  - Accueil: index.md
+  - Analyse immeuble: page1.md
+
